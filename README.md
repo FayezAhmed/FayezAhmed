@@ -8,6 +8,17 @@ I'm enrolled in a Simon Fraser University pursuing a degree in Computer Science 
 💻 Technical Curiosity:
 Driven by my insatiable curiosity, I'm continuously honing my coding skills. I'm proficient in C/C++, Java, Python and enjoy diving into projects that challenge me to think critically and creatively. From developing web applications to exploring machine learning algorithms, I love exploring various domains within computer science.
 
+🚀 Skills
+
+[<img src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=C&logoColor=white" alt="C" />]()
+[<img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++" />]()
+[<img src="https://img.shields.io/badge/java-%23ea2e2e.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java"/>]()
+[<img src="https://img.shields.io/badge/python-%233a75a5.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>]()
+[<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>]()
+[<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23f7de1e" alt="JavaScript"/>]()
+[<img src="https://img.shields.io/badge/css3-%233573b5.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>]()
+[<img src="https://img.shields.io/badge/html5-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>]()
+
 <!-- 🚀 Projects and Side Ventures:
 Beyond my academic pursuits, I enjoy working on personal projects and side ventures. These endeavors allow me to apply the knowledge I've acquired, experiment with new technologies, and push the boundaries of what I can accomplish. I'm always excited to share my projects and learn from the feedback and experiences of others.
 
