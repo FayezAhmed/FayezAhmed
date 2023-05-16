@@ -8,7 +8,7 @@ I'm enrolled in a Simon Fraser University pursuing a degree in Computer Science 
 💻 Technical Curiosity:
 Driven by my insatiable curiosity, I'm continuously honing my coding skills. I'm proficient in C/C++, Java, Python and enjoy diving into projects that challenge me to think critically and creatively. From developing web applications to exploring machine learning algorithms, I love exploring various domains within computer science.
 
-🚀 Skills
+🚀 Skills:
 
 [<img src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=C&logoColor=white" alt="C" />]()
 [<img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++" />]()
@@ -27,6 +27,8 @@ As a computer science student, I recognize that the field is constantly evolving
  -->
 🤝 Let's Connect:
 I'm always open to connecting with fellow students, mentors, and professionals who share a passion for computer science. If you're interested in collaborating on projects, discussing exciting ideas, or even grabbing a virtual coffee, feel free to reach out to me via [email](mailto:fayezkaleemahmed@gmail.com) or connect with me on other platforms.
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/fayezkahmed/)
 
 Thank you for visiting my GitHub profile. Together, let's embrace the world of code and shape the future of technology! 💻✨"
 
