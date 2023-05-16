@@ -30,7 +30,7 @@ I'm always open to connecting with fellow students, mentors, and professionals w
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/fayezkahmed/)
 
-Thank you for visiting my GitHub profile. Together, let's embrace the world of code and shape the future of technology! 💻✨"
+Thank you for visiting my GitHub profile. Together, let's embrace the world of code and shape the future of technology! 💻✨
 
 <!--
 **FayezAhmed/FayezAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
